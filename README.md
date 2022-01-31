@@ -13,5 +13,5 @@
 - StyledWidegt
 - 編寫robust程序來兼容不同手機平台和機型
 # 教學預期：學員可以初步了解flutter的狀態管理
-視頻地址：https://youtu.be/_MW1Z0E9DB8
+視頻地址：https://youtu.be/_MW1Z0E9DB8<br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
